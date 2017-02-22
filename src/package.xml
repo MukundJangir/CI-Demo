@@ -24,6 +24,7 @@
         <members>DuplicateRecordItem</members>
         <members>DuplicateRecordSet</members>
         <members>EmailMessage</members>
+        <members>Event</members>
         <members>ExchangeUserMapping</members>
         <members>FeedItem</members>
         <members>ForecastingCategoryMapping</members>
@@ -37,6 +38,8 @@
         <members>OpportunityCompetitor</members>
         <members>OpportunityContactRole</members>
         <members>OpportunityLineItem</members>
+        <members>Order</members>
+        <members>OrderItem</members>
         <members>PartnerRole</members>
         <members>Pricebook2</members>
         <members>PricebookEntry</members>
@@ -55,5 +58,9 @@
         <members>Lead.Standard</members>
         <name>AssignmentRule</name>
     </types>    
+    <types>
+        <members>Case.Standard</members>
+        <name>EscalationRule</name>
+    </types>
     <version>37.0</version>
 </Package>
