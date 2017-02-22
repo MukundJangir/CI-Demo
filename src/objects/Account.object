@@ -591,6 +591,13 @@
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
     <validationRules>
+        <fullName>Mobile_mandatory</fullName>
+        <active>true</active>
+        <errorConditionFormula>Phone  = null</errorConditionFormula>
+        <errorDisplayField>Phone</errorDisplayField>
+        <errorMessage>Mobvile is manfdatory</errorMessage>
+    </validationRules>
+    <validationRules>
         <fullName>Phone_Mandatory</fullName>
         <active>true</active>
         <errorConditionFormula>Phone  = null</errorConditionFormula>
