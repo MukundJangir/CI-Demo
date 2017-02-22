@@ -196,10 +196,10 @@
         <members>*</members>
         <name>PostTemplate</name>
     </types>
-    <types>
+    <!--  <types>
         <members>*</members>
         <name>Profile</name>
-    </types>
+    </types>-->
     <types>
         <members>*</members>
         <name>Queue</name>
