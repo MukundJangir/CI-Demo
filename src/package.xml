@@ -180,10 +180,10 @@
         <members>*</members>
         <name>HomePageLayout</name>
     </types>
-    <types>
+    <!-- <types>
         <members>*</members>
         <name>Layout</name>
-    </types>
+    </types> -->
     <types>
         <members>*</members>
         <name>Letterhead</name>
