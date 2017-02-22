@@ -9,4 +9,5 @@ public class test{
 //On more
 //12th Jan
 //22nd Feb
+public static String str = '';
 }
