@@ -590,6 +590,13 @@
         <searchResultsAdditionalFields>CORE.USERS.ALIAS</searchResultsAdditionalFields>
     </searchLayouts>
     <sharingModel>ReadWrite</sharingModel>
+    <validationRules>
+        <fullName>Phone_Mandatory</fullName>
+        <active>true</active>
+        <errorConditionFormula>Phone  = null</errorConditionFormula>
+        <errorDisplayField>Phone</errorDisplayField>
+        <errorMessage>Phone Number cannot be blank</errorMessage>
+    </validationRules>
     <webLinks>
         <fullName>Billing</fullName>
         <availability>online</availability>
